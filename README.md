@@ -14,13 +14,15 @@ Siddharth Gangadhar
 
   Website: https://www.ittc.ku.edu/~siddharth
 
+------
 
 Santosh Gondi
 
   Email: gondiss@gmail.com
 
   Website:
-
+  
+------
 
 Truc Anh Nguyen
 
