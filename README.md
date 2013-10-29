@@ -5,7 +5,7 @@ Goal: to solve programming problems of various difficult levels in different lan
 ====
 
 Contributors: 
-============
+-------------
 Siddharth Gangadhar 
 
   Email: siddharth.gangadhar@gmail.comsiddharth.gangadhar@gmail.com
