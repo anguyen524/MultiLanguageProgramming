@@ -3,13 +3,11 @@ MultiLanguageProgramming
 
 Goal: 
 -----
-=====
 To solve programming problems of various difficult levels in different languages
 
 
 Contributors: 
 -------------
-=============
 Siddharth Gangadhar 
 
   Email: siddharth.gangadhar@gmail.comsiddharth.gangadhar@gmail.com
