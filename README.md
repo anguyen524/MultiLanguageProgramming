@@ -8,21 +8,21 @@ Contributors:
 ============
 Siddharth Gangadhar 
 
-Email: siddharth.gangadhar@gmail.comsiddharth.gangadhar@gmail.com
+  Email: siddharth.gangadhar@gmail.comsiddharth.gangadhar@gmail.com
 
-Website: https://www.ittc.ku.edu/~siddharth
+  Website: https://www.ittc.ku.edu/~siddharth
 
 
 Santosh Gondi
 
-Email: gondiss@gmail.com
+  Email: gondiss@gmail.com
 
-Website:
+  Website:
 
 
 Truc Anh Nguyen
 
-Email: trucanh524@gmail.com
+  Email: trucanh524@gmail.com
 
-Website: https://www.ittc.ku.edu/~annguyen
+  Website: https://www.ittc.ku.edu/~annguyen
 
