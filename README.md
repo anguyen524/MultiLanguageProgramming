@@ -2,13 +2,13 @@ MultiLanguageProgramming
 ========================
 
 Goal: 
-----
+====
 ----
 To solve programming problems of various difficult levels in different languages
 
 
 Contributors: 
--------------
+=============
 -------------
 Siddharth Gangadhar 
 
