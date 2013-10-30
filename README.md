@@ -10,7 +10,7 @@ Contributors:
 -------------
 Siddharth Gangadhar 
 
-  Email: siddharth.gangadhar@gmail.comsiddharth.gangadhar@gmail.com
+  Email: siddharth.gangadhar@gmail.com
 
   Website: https://www.ittc.ku.edu/~siddharth
 
